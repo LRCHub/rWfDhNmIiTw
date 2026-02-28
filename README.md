@@ -1,0 +1,60 @@
+# Wali – Nenekku Pahlawanku
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.93] Jujur aku mengaku
+[00:20.52] Ku sakit hati padamu
+[00:24.44] Mengapa kau lukai aku?
+[00:28.20] Mengapa putuskan diriku?
+[00:40.20] 
+[00:32.58] Untung ada nenekku
+[00:36.28] Nenek bilang kepadaku
+[00:40.02] Bahwa, "Bila gugur satu"
+[00:44.13] "Akan tumbuh sepuluh ribu"
+[00:57.13] 
+[00:49.62] Aku tak menangisimu, hu-hu-hu
+[00:53.71] Ku masih bisa tertawa, ha-ha-ha
+[00:57.69] Walau kau telah lukai aku
+[01:01.31] Nenek bilang, "Kuat-kuat"
+[01:05.43] 'Tuk apa menangisimu? Hu-hu-hu
+[01:09.47] Lebih baik ku tertawa, ha-ha-ha
+[01:13.45] Walau kau pergi jauh dariku
+[01:17.22] Nenek bilang, "Kuat-kuat"
+[01:29.72] 
+[01:37.62] Mau tahu rasanya sakit hati itu apa?
+[01:45.08] Pernahkah kau disengat lebah?
+[01:48.89] "Itu lebih pedih", katanya
+[02:01.89] 
+[01:52.80] Oh, nenekku pahlawanku
+[01:56.83] Pantang mundur nasehatiku
+[02:00.66] Bahwa, "Bila gugur satu"
+[02:04.56] "Akan tumbuh sepuluh ribu"
+[02:17.56] 
+[02:10.49] Aku tak menangisimu, hu-hu-hu
+[02:14.52] Ku masih bisa tertawa, ha-ha-ha
+[02:18.48] Walau kau telah lukai aku
+[02:22.08] Nenek bilang, "Kuat-kuat"
+[02:26.17] 'Tuk apa menangisimu? Hu-hu-hu
+[02:30.13] Lebih baik ku tertawa, ha-ha-ha
+[02:34.13] Walau kau pergi jauh dariku
+[02:37.84] Nenek bilang, "Kuat-kuat"
+[02:50.34] 
+[03:02.97] (Jangan kau menangisiku, hu-hu-hu)
+[03:07.55] (Lebih baik kau tertawa, ha-ha-ha)
+[03:11.49] (Aku tak pergi jauh darimu)
+[03:15.38] (Nenekku bilang, "Salah paham")
+[03:19.23] ('Tuk apa menangisiku, hu-hu-hu?)
+[03:23.26] (Lebih baik kau tertawa, ha-ha-ha)
+[03:27.30] (Aku tak pergi jauh darimu)
+[03:31.07] (Nenekku bilang, "Salah paham")
+[03:46.57] 
+[03:34.38] Aku, aku, aku tak menangisimu, hu-hu-hu
+[03:39.01] Ku masih bisa tertawa, ha-ha-ha
+[03:42.97] Walau kau telah lukai aku
+[03:46.70] Nenek bilang, "Kuat-kuat"
+[03:50.65] 'Tuk apa menangisimu? Hu-hu-hu
+[03:54.74] Lebih baik ku tertawa, ha-ha-ha
+[03:58.65] Walau kau pergi jauh dariku
+[04:02.47] Nenek bilang, "Kuat-kuat"
+```
