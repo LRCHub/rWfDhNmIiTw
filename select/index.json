@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Nenekku Pahlawanku",
+  "base_artist": "Wali",
+  "createdAt": "2026-02-28T20:34:07.920032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nenekku Pahlawanku",
+      "artist": "Wali",
+      "has_synced": true,
+      "path": "select/01_Nenekku_Pahlawanku_Wali.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dj Nenekku Pahlawanku",
+      "artist": "Dj Aris",
+      "has_synced": true,
+      "path": "select/02_Dj_Nenekku_Pahlawanku_Dj_Aris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nenekku Pahlawanku",
+      "artist": "Yuni Ayunda",
+      "has_synced": true,
+      "path": "select/03_Nenekku_Pahlawanku_Yuni_Ayunda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nenekku Pahlawanku",
+      "artist": "Wali",
+      "has_synced": true,
+      "path": "select/04_Nenekku_Pahlawanku_Wali.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nenekku Pahlawanku",
+      "artist": "Wali",
+      "has_synced": true,
+      "path": "select/05_Nenekku_Pahlawanku_Wali.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nenekku Pahlawanku",
+      "artist": "Video • Wali",
+      "has_synced": true,
+      "path": "select/06_Nenekku_Pahlawanku_Video_•_Wali.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nenekku Pahlawanku",
+      "artist": "Wali - www.fullalbummp3.net",
+      "has_synced": true,
+      "path": "select/07_Nenekku_Pahlawanku_Wali_-_www.fullalbummp3.net.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nenekku Pahlawanku",
+      "artist": "Wali",
+      "has_synced": false,
+      "path": "select/pl_01_Nenekku_Pahlawanku_Wali.txt"
+    }
+  ]
+}
